@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sambarjp88.github.io/sambarjp88/sitemap.xml
